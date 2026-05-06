@@ -50,3 +50,4 @@ docker run -d --name mynginx -v my_volume:/usr/share/nginx/html -p 8080:80  ngin
 Docker Tag:
  docker tag myapache:latest myapache:v1
  docker rmi myapache:latest>>>>to delete main image
+
